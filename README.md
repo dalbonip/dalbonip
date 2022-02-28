@@ -1,5 +1,9 @@
 ## Salve, Forasteiro! Eu sou Paulo Dalboni. 👋
-
+<div align="center">
+  <a href="https://github.com/dalbonip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalbonip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalbonip&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 - 🔭 I’m currently working on building a ransomware with golang! Learning Malware Development and looking forward to collaborate on FOSS projects.
 - 💡 I’m a Cyber Security Specialist!
 - ⚡ Fun fact: i currently lost about 4 virtual machines developing the golang ramsonware.
