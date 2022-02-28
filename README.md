@@ -12,15 +12,15 @@
   
 <div style="display: inline_block" align="right"><br><br>
   <img align="left" alt="pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh8-1.fna.fbcdn.net/v/t51.2885-15/119525915_1055477514908608_7871578598510917183_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fcgh8-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=UctXQ9rPDnAAX9YizeF&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjQwMDQ5Mzc2NzgwNTg5ODA3OQ%3D%3D.2-ccb7-4&oh=00_AT9cT71VZx3B5QUeyQu9hz_NG7ecgTMj6abD7sNBCfpbMQ&oe=62232D5F&_nc_sid=30a2ef">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  </div>
   
   ##
  
