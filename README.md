@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on building a ransomware with golang! Learning Malware Development and looking forward to collaborate on FOSS projects.
 - 💡 I’m a Cyber Security Specialist!
 - ⚡ Fun fact: i currently lost about 4 virtual machines developing the golang ramsonware.
-- <a href="https://beacons.ai/dalbonip">🔗 here is to access more stuff about me</a>
+- <a href="https://beacons.ai/dalbonip">🔗 here is to access more stuff about me</a><br><br>
 
 <div align="center">
   <a href="https://github.com/dalbonip">
@@ -30,7 +30,7 @@
  	<a href="https://www.twitch.tv/dalbonip" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:pdalbonii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dalbonip" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+  </div><br><br>
  <div align="center">
   
   ![Snake animation](https://github.com/dalbonip/dalbonip/blob/output/github-contribution-grid-snake.svg)
