@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/dalbonip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalbonip&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalbonip&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalbonip&layout=compact&langs_count=7&theme=omni"/>
 </div><br>
 <div style="display: inline_block" align="right"><br>
     <img align="left" alt="pic" height="150" style="border-radius:50px;" src="https://instagram.fcgh8-1.fna.fbcdn.net/v/t51.2885-15/119525915_1055477514908608_7871578598510917183_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fcgh8-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=UctXQ9rPDnAAX9YizeF&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjQwMDQ5Mzc2NzgwNTg5ODA3OQ%3D%3D.2-ccb7-4&oh=00_AT9cT71VZx3B5QUeyQu9hz_NG7ecgTMj6abD7sNBCfpbMQ&oe=62232D5F&_nc_sid=30a2ef">
